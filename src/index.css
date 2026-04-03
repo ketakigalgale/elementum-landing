@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-green: #d1e8d5;
+  --color-brand-pink: #f9c7d2;
+  --color-brand-orange: #fdba74;
+  --color-brand-purple: #8b5cf6;
+  --color-brand-light-green: #e8f3ea;
+  
+  --font-display: "Syne", sans-serif;
+  --font-body: "Inter", sans-serif;
+}
+
+body {
+  font-family: var(--font-body);
+  @apply antialiased text-[#1a1a1a] bg-white;
+}
