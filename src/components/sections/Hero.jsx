@@ -59,7 +59,7 @@ export const Hero = () => {
           className="md:absolute md:left-[22%] md:bottom-0 w-36 h-36 rounded-full border-4 border-white shadow-xl"
         />
         <img
-          src="https://i.pravatar.cc/150?u=3"
+          src="https://i.pravatar.cc/150?u=13"
           className="md:absolute md:left-[40%] md:top-0 w-44 h-44 rounded-full border-4 border-white shadow-2xl"
         />
         <img
