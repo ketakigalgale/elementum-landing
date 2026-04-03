@@ -66,4 +66,4 @@ After you save this in VS Code, run these three commands to update your repo:
 2.  `git commit -m "docs: complete professional readme"`
 3.  `git push`
 
-Now your GitHub profile will look top-tier! Want me to help you add a "Skills" section
+
